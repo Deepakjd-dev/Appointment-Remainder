@@ -30,7 +30,7 @@ To get a local copy up and running, follow these steps:
 
 ## 📸 Screenshots
 
-![Appointment Reminder Screenshot](path/to/screenshot.png) <!-- Replace with actual path -->
+![Appointment Reminder Screenshot](/remainder.png) <!-- Replace with actual path -->
 
 ## 🛠️ Usage
 
